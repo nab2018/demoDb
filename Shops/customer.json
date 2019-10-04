@@ -1,2 +1,2 @@
 { "_id" : { "$oid" : "5d14b2a8a39f3e22fce1bdd6" }, "password" : "password1", "active" : true, "firstname" : "firstname 1", "lastname" : "lastname 1", "email" : "email@host.com", "phonenr" : "00212626589622" }
-{ "_id" : { "$oid" : "5d1f24d8daabd418fcb278a4" }, "firstname" : "Nabil", "lastname" : "Jalmous", "email" : "j2nabyl@gmail.com", "password" : "password", "phonenr" : "0610560263", "active" : false, "_class" : "com.shops.demo.model.Customer" }
+{ "_id" : { "$oid" : "5d1f24d8daabd418fcb278a4" }, "firstname" : "Nabil", "lastname" : "Jalmous", "email" : "email@host.com", "password" : "password", "phonenr" : "xxxxxxxxxx", "active" : false, "_class" : "com.shops.demo.model.Customer" }
